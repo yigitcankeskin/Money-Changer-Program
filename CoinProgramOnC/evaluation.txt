@@ -1,0 +1,10 @@
+WHAT WORKS,
+ It provides the most efficient calculation of the change that a customer
+ will receive as a result of his shopping.
+ For example, it is not desirable to give a 90 cent
+ change in the form of 5 cents each. Therefore,
+ this change should be given in the form of 50 cents, 20 cents, 20 cents.
+
+WHAT DOES NOT WORK,
+This program does not calculate how much change the customer will receive in total.
+Performs transactions on the calculated money change.
